@@ -16,3 +16,9 @@ Base Skeleton to start your application using Flask-AppBuilder
 
 
 That's it!!
+
+Založení projektu a vytvoření Skeletonu
+Přepracování celé databáze do syntaxe FAB
+Zakomponování potřebných řádků kódu k práci s databází
+
+Udělat views
